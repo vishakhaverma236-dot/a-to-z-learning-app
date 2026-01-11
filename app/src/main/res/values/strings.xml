@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Live Abcd Kiddo</string>
+    <string name="app_title">Abcd kiddo</string>
+    <string name="txt_getstarted">Get started</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_a">A apple</string>
+    <string name="txt_b">B ball</string>
+    <string name="txt_c">c cat</string>
+    <string name="txt_d">D dog</string>
+    <string name="txt_e">E elephant</string>
+    <string name="txt_f">F fish</string>
+    <string name="txt_g">G girl</string>
+    <string name="txt_h">H hut</string>
+    <string name="txt_i">I ice-cream</string>
+    <string name="txt_j">J jug</string>
+    <string name="txt_k">K kite</string>
+    <string name="txt_l">L lion</string>
+    <string name="txt_m">M monkey</string>
+    <string name="txt_n">N nest</string>
+    <string name="txt_o">O orange</string>
+    <string name="txt_p">P parrot</string>
+    <string name="txt_q">Q queen</string>
+    <string name="txt_r">R rabbit</string>
+    <string name="txt_s">S sun</string>
+    <string name="txt_t">T tiger</string>
+    <string name="txt_u">U umbrella</string>
+    <string name="txt_v">V van </string>
+    <string name="txt_w">W watermelon</string>
+    <string name="txt_x">X xylophone</string>
+    <string name="txt_y">Y yoyo</string>
+    <string name="txt_z">Z zebra</string>
+    <string name="txt_repeat">Repeat</string>
+    <string name="txt_congrats">congrats You have complete game</string>
+
+
+</resources>
+
